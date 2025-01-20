@@ -5,7 +5,6 @@ This is a simple Login and Registration application built using Windows Forms in
 ## Features
 
 ### Registration:
-![image](https://github.com/user-attachments/assets/c5e27c47-6859-49e4-848e-2d993c5abe6a)
 
 - **Username**: A field to enter the username.
 - **Password**: A password field for entering the user's password.
@@ -14,11 +13,15 @@ This is a simple Login and Registration application built using Windows Forms in
 - **Birth Date**: A date picker to select the user's birth date.
 - **Gender**: Radio buttons to select gender (Male or Female).
 - **Country**: A drop-down menu to select the user's country.
+  
+![image](https://github.com/user-attachments/assets/c5e27c47-6859-49e4-848e-2d993c5abe6a)
 
 ### Login:
 - **Username**: A field to enter the username.
 - **Password**: A field to enter the password.
 - **Login Button**: A button to submit the login request.
+
+![image](https://github.com/user-attachments/assets/9cf74efe-1208-49b0-8d53-1034bef543e3)
 
 ### Validation
 - The application ensures that the username is not empty.
