@@ -33,17 +33,3 @@ This is a simple Login and Registration application built using Windows Forms in
 
 - Microsoft .NET Framework
 - Visual Studio or any IDE that supports Windows Forms and C#.
-
-## How to Run
-
-1. Clone or download the project to your local machine.
-2. Open the solution in Visual Studio.
-3. Build and run the project.
-
-## Screenshots
-
-![Registration Form Screenshot](screenshot.png)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
