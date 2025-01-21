@@ -1,0 +1,17 @@
+E:\Projects\Backend.NET\Material ITI 2024\1-C#\FirstDescktopApp\FirstDescktopApp\bin\Debug\net8.0-windows\FirstDescktopApp.exe
+E:\Projects\Backend.NET\Material ITI 2024\1-C#\FirstDescktopApp\FirstDescktopApp\bin\Debug\net8.0-windows\FirstDescktopApp.deps.json
+E:\Projects\Backend.NET\Material ITI 2024\1-C#\FirstDescktopApp\FirstDescktopApp\bin\Debug\net8.0-windows\FirstDescktopApp.runtimeconfig.json
+E:\Projects\Backend.NET\Material ITI 2024\1-C#\FirstDescktopApp\FirstDescktopApp\bin\Debug\net8.0-windows\FirstDescktopApp.dll
+E:\Projects\Backend.NET\Material ITI 2024\1-C#\FirstDescktopApp\FirstDescktopApp\bin\Debug\net8.0-windows\FirstDescktopApp.pdb
+E:\Projects\Backend.NET\Material ITI 2024\1-C#\FirstDescktopApp\FirstDescktopApp\obj\Debug\net8.0-windows\FirstDescktopApp.LoginForm.resources
+E:\Projects\Backend.NET\Material ITI 2024\1-C#\FirstDescktopApp\FirstDescktopApp\obj\Debug\net8.0-windows\FirstDescktopApp.csproj.GenerateResource.cache
+E:\Projects\Backend.NET\Material ITI 2024\1-C#\FirstDescktopApp\FirstDescktopApp\obj\Debug\net8.0-windows\FirstDescktopApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Backend.NET\Material ITI 2024\1-C#\FirstDescktopApp\FirstDescktopApp\obj\Debug\net8.0-windows\FirstDescktopApp.AssemblyInfoInputs.cache
+E:\Projects\Backend.NET\Material ITI 2024\1-C#\FirstDescktopApp\FirstDescktopApp\obj\Debug\net8.0-windows\FirstDescktopApp.AssemblyInfo.cs
+E:\Projects\Backend.NET\Material ITI 2024\1-C#\FirstDescktopApp\FirstDescktopApp\obj\Debug\net8.0-windows\FirstDescktopApp.csproj.CoreCompileInputs.cache
+E:\Projects\Backend.NET\Material ITI 2024\1-C#\FirstDescktopApp\FirstDescktopApp\obj\Debug\net8.0-windows\FirstDescktopApp.dll
+E:\Projects\Backend.NET\Material ITI 2024\1-C#\FirstDescktopApp\FirstDescktopApp\obj\Debug\net8.0-windows\refint\FirstDescktopApp.dll
+E:\Projects\Backend.NET\Material ITI 2024\1-C#\FirstDescktopApp\FirstDescktopApp\obj\Debug\net8.0-windows\FirstDescktopApp.pdb
+E:\Projects\Backend.NET\Material ITI 2024\1-C#\FirstDescktopApp\FirstDescktopApp\obj\Debug\net8.0-windows\FirstDescktopApp.genruntimeconfig.cache
+E:\Projects\Backend.NET\Material ITI 2024\1-C#\FirstDescktopApp\FirstDescktopApp\obj\Debug\net8.0-windows\ref\FirstDescktopApp.dll
+E:\Projects\Backend.NET\Material ITI 2024\1-C#\FirstDescktopApp\FirstDescktopApp\obj\Debug\net8.0-windows\FirstDescktopApp.Register.resources
